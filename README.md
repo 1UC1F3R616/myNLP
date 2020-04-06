@@ -8,6 +8,14 @@ NLP Notes | NLP based Projects as a Learner
 
 ## Blogs
 - [Sequence Modeling : Intro](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
+<details>
+  <summary>
+    Sequence Modeling : Use Case
+  </summary>
+  
+![Amazing](https://user-images.githubusercontent.com/41824020/78594429-e8bdbc00-7865-11ea-890e-2f8497d7b940.jpg)
+</br>
+</details> 
 - [Sequence Modeling : Depth](https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
 
  
