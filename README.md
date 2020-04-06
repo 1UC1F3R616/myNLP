@@ -5,6 +5,11 @@ NLP Notes | NLP based Projects as a Learner
 
 - [NLPcourse1.5Hours](/NLP1.5hoursCourse/nlpcourse1-5hours.ipynb)
   - [Py file for same](https://github.com/1UC1F3R616/myNLP/blob/master/NLP1.5hoursCourse/nlpcourse1_5hours.py)
+
+## Blogs
+- [Sequence Modeling](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
+
+
  
 ## LiveTwitterSentimentAnalysis
 - [ipynb](/LiveTwitterSentimentAnalysis/livetwittersentimentanalysis.ipynb)
