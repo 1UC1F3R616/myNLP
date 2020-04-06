@@ -16,3 +16,7 @@ Create your Twitter Dev Account and App at https://developer.twitter.com/en/apps
 ## LiveWord2Vec
 - [ipynb](/LiveWord2Vec/liveword2vec.ipynb)
 - [py](/LiveWord2Vec/liveword2vec.py)
+
+## MovieReviewClassification
+- [ipynb](/MovieReviewClassification/moviereviewclassification.ipynb)
+- [py](/MovieReviewClassification/moviereviewclassification.py)
