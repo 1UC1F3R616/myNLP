@@ -14,7 +14,7 @@ NLP Notes | NLP based Projects as a Learner
 
 <details>
   <summary>
-    Sequence Modeling : Use Case
+    Sequence Modeling : Applications
   </summary>
 </br>
 
