@@ -8,6 +8,7 @@ NLP Notes | NLP based Projects as a Learner
 ### deeplearning.ai Course Notes
 - [An Introductory Guide to Deep Learning and Neural Networks Course#1](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
 - [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More Course#2](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/)
+- [CNN](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/)
 
 ## Blogs
 ### Sequence Modeling
