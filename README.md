@@ -5,6 +5,7 @@ NLP Notes | NLP based Projects as a Learner
 ### Intro to NLP
 - [NLPcourse1.5Hours](/NLP1.5hoursCourse/nlpcourse1-5hours.ipynb)
   - [Py file for same](https://github.com/1UC1F3R616/myNLP/blob/master/NLP1.5hoursCourse/nlpcourse1_5hours.py)
+### [Text Rank Algorithm : Text Summarization](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
 ### deeplearning.ai Course Notes
 - [An Introductory Guide to Deep Learning and Neural Networks Course#1](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
 - [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More Course#2](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/)
