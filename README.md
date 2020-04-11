@@ -6,6 +6,8 @@ NLP Notes | NLP based Projects as a Learner
 - [NLPcourse1.5Hours](/NLP1.5hoursCourse/nlpcourse1-5hours.ipynb)
   - [Py file for same](https://github.com/1UC1F3R616/myNLP/blob/master/NLP1.5hoursCourse/nlpcourse1_5hours.py)
 ### [Text Rank Algorithm : Text Summarization](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
+#### [Text Summarization : Using Deep Learning in Keras](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/)
+
 ### deeplearning.ai Course Notes
 - [An Introductory Guide to Deep Learning and Neural Networks Course#1](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
 - [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More Course#2](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/)
@@ -27,8 +29,9 @@ NLP Notes | NLP based Projects as a Learner
 
 - [Sequence Modeling : Depth](https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
 
- 
- 
+### CV
+- [Inception](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/?utm_source=blog&utm_medium=build-your-own-object-detection-model-using-tensorflow-api)
+- [Object Detection Model Using TensortFlow API](https://www.analyticsvidhya.com/blog/2020/04/build-your-own-object-detection-model-using-tensorflow-api/)
  
 ## Beginner Friendly Projects
 ### LiveTwitterSentimentAnalysis
